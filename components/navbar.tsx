@@ -12,7 +12,7 @@ export default function Navbar() {
                     className="flex items-center gap-2 text-xl font-semibold text-primary"
                     >
                          <Briefcase />
-                         Job Tracker
+                         Job Tracker-1
                     </Link>
                
                <div>
